@@ -20,29 +20,10 @@
 
 </div>
 
----
-
 ### ⚡ `> WHOAMI`
 
-```bash
-tanmay@digital-builder:~$ whoami --verbose
-```
-
-> **Tanmay Bhar** is a Full-Stack Web Developer, Software Builder, and QA Enthusiast. Driven by a deep curiosity for building responsive, high-performance web ecosystems and resilient backend architectures. From crafting reactive single-page apps in **React 19 & TypeScript** to architecting robust REST APIs in **Node.js & PHP 8 PDO**, every build is designed to be fast, reliable, and aesthetically unforgettable.
-
-```text
-┌── [ CORE METRICS ] ────────────────────────────────────────────────────────┐
-│  • Primary Focus    : Full-Stack Web Apps • REST APIs • Real-Time Systems  │
-│  • Core Stack       : React 19 • TypeScript • Node.js • PHP 8 • MySQL     │
-│  • Engineering Rule : Write clean logic, verify edge cases, ship quality.  │
-│  • Current Velocity : Building modern web platforms & full-stack systems.  │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 <div align="center">
-  <!-- INTERACTIVE TERMINAL DIAGNOSTIC -->
+  <!-- INTERACTIVE CYBER TERMINAL DIAGNOSTIC -->
   <img src="assets/terminal-card.svg" alt="Tanmay Developer Terminal Diagnostics" width="100%" />
 </div>
 
