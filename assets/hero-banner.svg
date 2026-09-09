@@ -149,11 +149,12 @@
     <text x="152" y="18" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="0.8">FULL-STACK &amp; QA ENGINEER</text>
 
     <!-- Hireable Pill -->
-    <g transform="translate(690, 0)">
-      <rect width="180" height="28" rx="6" fill="#081020" stroke="#00f5d4" stroke-width="0.8" stroke-opacity="0.8" />
-      <circle cx="16" cy="14" r="4" fill="#00f5d4" class="status-pulse" />
-      <text x="28" y="18" fill="#00f5d4" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">OPEN FOR ROLES</text>
-      <text x="135" y="18" fill="#64748b" font-family="'Courier New', monospace" font-size="9.5">v2.6_PROD</text>
+    <g transform="translate(685, 0)">
+      <rect width="185" height="28" rx="6" fill="#081020" stroke="#00f5d4" stroke-width="0.8" stroke-opacity="0.8" />
+      <circle cx="16" cy="14" r="4.5" fill="#00f5d4" class="status-pulse" />
+      <text x="28" y="18" fill="#00f5d4" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="0.8">OPEN FOR ROLES</text>
+      <text x="140" y="18" fill="#334155">|</text>
+      <text x="152" y="18" fill="#64748b" font-family="'Courier New', monospace" font-size="9.5" font-weight="700">v2.6</text>
     </g>
   </g>
 
