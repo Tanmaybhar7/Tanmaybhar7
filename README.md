@@ -84,75 +84,31 @@ Here is a curated selection of real-world full-stack applications and platforms:
 
 <br/>
 
-<table>
-  <tr>
-    <!-- PROJECT 1: MAUSAM -->
-    <td width="50%" valign="top">
-      <h3>🌦️ <a href="https://github.com/Tanmaybhar7/mausam_weather_app">Mausam Weather Platform</a></h3>
-      <p><strong>Next-Gen Interactive Weather &amp; Climate Intelligence SPA</strong></p>
-      <p>A reactive weather intelligence platform built on React 19 and TypeScript. Features live dynamic charts via Recharts, interactive geospatial mapping with Leaflet, multi-lingual localization (i18n), and smooth UI animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/TailwindCSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Tanmaybhar7/mausam_weather_app"><strong>Explore Codebase →</strong></a>
-      </p>
-    </td>
-    <!-- PROJECT 2: FSET -->
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Tanmaybhar7/Pharmacy-Stock-and-Expiry-Tracker">FSET — Pharmacy Tracker</a></h3>
-      <p><strong>Commercial-Grade Inventory &amp; Expiry Control System</strong></p>
-      <p>A full-stack pharmaceutical inventory and batch tracking management system. Integrates a responsive React.js frontend with a secure PHP 8 REST API (PDO prepared statements) and MySQL database for critical expiry tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-        <img src="https://img.shields.io/badge/PHP_8_PDO-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Tanmaybhar7/Pharmacy-Stock-and-Expiry-Tracker"><strong>Explore Codebase →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- PROJECT 3: MYTARAKESWAR -->
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://mytarakeswar.netlify.app">MyTarakeswar Web Platform</a></h3>
-      <p><strong>Live Community Portal &amp; Real-Time Exploration Engine</strong></p>
-      <p>A deployed web platform delivering regional discovery and services. Supported by a dedicated Node.js/Express backend server (<code>backendT</code>) with Socket.io real-time streaming and MySQL persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
-        <img src="https://img.shields.io/badge/MySQL2-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Netlify_Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-      </p>
-      <p>
-        🌐 <a href="https://mytarakeswar.netlify.app"><strong>Visit Live Site →</strong></a> &nbsp;|&nbsp; 🔗 <a href="https://github.com/Tanmaybhar7/MyTarakeswar"><strong>Repo →</strong></a>
-      </p>
-    </td>
-    <!-- PROJECT 4: PORTFOLIO -->
-    <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/Tanmaybhar7/portfolio">Tanmay Bhar Portfolio</a></h3>
-      <p><strong>Cyberpunk-Inspired High-Performance Portfolio</strong></p>
-      <p>A fast, zero-dependency developer portfolio featuring modern typography (Fira Code &amp; Syne), dark glassmorphism, responsive CSS grid layouts, and custom micro-animations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Fira_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Fira Code" />
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Tanmaybhar7/portfolio"><strong>Explore Codebase →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- ANIMATED FEATURED PROJECTS SUITE -->
+  <img src="assets/featured-projects.svg" alt="Tanmay Featured Projects Suite" width="100%" />
+
+  <br/><br/>
+
+  <!-- QUICK ACCESS REPOSITORY BUTTONS -->
+  <p align="center">
+    <a href="https://github.com/Tanmaybhar7/mausam_weather_app" target="_blank">
+      <img src="https://img.shields.io/badge/🌦️_Mausam_Weather-Codebase_→-00f2fe?style=for-the-badge&labelColor=060b17" alt="Mausam Repo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Tanmaybhar7/Pharmacy-Stock-and-Expiry-Tracker" target="_blank">
+      <img src="https://img.shields.io/badge/🏥_FSET_Tracker-Codebase_→-a855f7?style=for-the-badge&labelColor=060b17" alt="FSET Repo" />
+    </a>
+    &nbsp;
+    <a href="https://mytarakeswar.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_MyTarakeswar-Live_Demo_↗-10b981?style=for-the-badge&labelColor=060b17" alt="MyTarakeswar Live" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Tanmaybhar7/portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/💼_Dev_Portfolio-Codebase_→-f59e0b?style=for-the-badge&labelColor=060b17" alt="Portfolio Repo" />
+    </a>
+  </p>
+</div>
 
 ---
 
