@@ -71,50 +71,10 @@ tanmay@digital-builder:~$ whoami --verbose
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Core Languages &amp; Fundamentals</h4>
-      <ul>
-        <li><code>TypeScript</code> — Strict typing, robust interfaces</li>
-        <li><code>JavaScript (ES6+)</code> — Async/Await, DOM, Events</li>
-        <li><code>PHP 8</code> — REST endpoints, PDO prepared statements</li>
-        <li><code>HTML5 &amp; CSS3</code> — Semantic layouts, responsive CSS</li>
-        <li><code>Python &amp; C</code> — Core algorithmic problem solving</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Frontend &amp; UI Engineering</h4>
-      <ul>
-        <li><code>React 19 &amp; React.js</code> — SPAs, Hooks, Component architecture</li>
-        <li><code>Vite</code> — Lightning-fast build tooling &amp; HMR</li>
-        <li><code>TailwindCSS v4 &amp; Bootstrap 5</code> — Modern utility styling</li>
-        <li><code>Framer Motion</code> — Fluid UI micro-interactions</li>
-        <li><code>Leaflet &amp; Recharts</code> — Geospatial maps &amp; data charts</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Backend &amp; Real-Time Systems</h4>
-      <ul>
-        <li><code>Node.js &amp; Express.js</code> — High-throughput server logic</li>
-        <li><code>Socket.io</code> — Real-time bidirectional event streaming</li>
-        <li><code>RESTful API Design</code> — Strict HTTP verbs &amp; JSON responses</li>
-        <li><code>CORS &amp; Dotenv</code> — Secure configuration &amp; middleware</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database, Storage &amp; Quality</h4>
-      <ul>
-        <li><code>MySQL &amp; MySQL2</code> — Relational schema &amp; query optimization</li>
-        <li><code>Supabase</code> — Modern cloud database integration</li>
-        <li><code>Postman</code> — Comprehensive endpoint &amp; schema testing</li>
-        <li><code>QA &amp; Game Testing</code> — Edge-case analysis &amp; validation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- ANIMATED TECH ARSENAL MATRIX -->
+  <img src="assets/tech-arsenal.svg" alt="Tanmay Tech Arsenal and Core Stack" width="100%" />
+</div>
 
 ---
 
