@@ -20,26 +20,41 @@
 
 </div>
 
-### ⚡ `> WHOAMI`
+### ⚡ `> WHOAMI // EXECUTIVE SUMMARY`
 
 <div align="center">
   <!-- INTERACTIVE CYBER TERMINAL DIAGNOSTIC -->
   <img src="assets/terminal-card.svg" alt="Tanmay Developer Terminal Diagnostics" width="100%" />
 </div>
 
+<br/>
+
+> 👋 **In Plain English:** I am a **Full-Stack Web Developer & QA Enthusiast** who loves transforming ideas into fast, intuitive, and reliable web applications. Whether building responsive user interfaces with **React 19 & TypeScript** or crafting secure backend APIs with **Node.js & PHP 8**, my focus is always on **clean code, great design, and zero bugs**.
+
 ---
 
 ### 🌐 `// DIGITAL BUILDER PIPELINE`
 
-> A structured, engineering-first approach from whiteboard conception to bulletproof production deployment.
+> *From whiteboard concept to production deployment — here is how I build:*
 
 <div align="center">
   <img src="assets/workflow-pipeline.svg" alt="Tanmay Engineering Workflow Pipeline" width="100%" />
 </div>
 
+<br/>
+
+| Stage | Focus | What Happens Here |
+| :--- | :--- | :--- |
+| **`01 // ARCHITECT`** | System Design | Wireframing user flows, designing MySQL database schemas, and defining API contracts. |
+| **`02 // ENGINEER`** | Full-Stack Code | Developing modular React 19 SPAs, TypeScript interfaces, and Node.js / PHP backend services. |
+| **`03 // QA & TEST`** | Quality Assurance | Rigorous edge-case testing, API payload validation with Postman, and cross-browser testing. |
+| **`04 // DEPLOY & SCALE`** | Cloud Deployment | Production shipping on Netlify/Vercel with optimized assets, SSL security, and high uptime. |
+
 ---
 
 ### 🛠️ `// TECH ARSENAL & TOOLING`
+
+> *Technologies, frameworks, and tools I actively use to build real-world software:*
 
 <div align="center">
 
@@ -61,9 +76,7 @@
 
 ### 🚀 `// FEATURED PROJECTS & SYSTEMS`
 
-Here is a curated selection of real-world full-stack applications and platforms:
-
-<br/>
+> *A showcase of real-world applications engineered for real users:*
 
 <div align="center">
   <!-- ANIMATED FEATURED PROJECTS SUITE -->
@@ -91,9 +104,23 @@ Here is a curated selection of real-world full-stack applications and platforms:
   </p>
 </div>
 
+<br/>
+
+<details>
+  <summary>🔍 <strong>Click to read detailed project summaries (Beginner-Friendly breakdown)</strong></summary>
+  <br/>
+  
+  * **🌦️ Mausam Weather Platform:** An interactive live weather dashboard. Users can search any city, view dynamic hourly/weekly temperature charts, inspect live rain & wind map layers via Leaflet, and switch languages with multi-lingual support.
+  * **🏥 FSET (Pharmacy Stock & Expiry Tracker):** An enterprise web app designed for medical stores and pharmacies to manage medicine stocks, alert staff about near-expiry batches, and prevent inventory waste using secure PHP PDO & MySQL.
+  * **🌐 MyTarakeswar Community Platform:** A live regional guide and community portal powered by a Node.js/Express backend (`backendT`) with real-time Socket.io live updates and netlify cloud hosting.
+  * **💼 Personal Developer Portfolio:** A lightning-fast, mobile-first portfolio built from scratch with pure HTML, CSS, and modern JavaScript with smooth dark-mode aesthetics.
+</details>
+
 ---
 
 ### 📊 `// GITHUB TELEMETRY & ACTIVITY MATRIX`
+
+> *Live metrics tracking my open-source commits, language diversity, and coding consistency:*
 
 <div align="center">
 
@@ -125,7 +152,11 @@ Here is a curated selection of real-world full-stack applications and platforms:
 
 </div>
 
+---
+
 ### 🎯 `// DOMAINS OF PASSION`
+
+> *Areas where I love solving problems and creating digital value:*
 
 <div align="center">
   <!-- ANIMATED DOMAINS MATRIX -->
@@ -144,6 +175,8 @@ Here is a curated selection of real-world full-stack applications and platforms:
 ---
 
 ### 🌐 `// INITIATE TRANSMISSION`
+
+> 🤝 *Looking for a Full-Stack Developer, Frontend React Engineer, or QA specialist? Let's connect!*
 
 <div align="center">
 
