@@ -116,21 +116,14 @@ Here is a curated selection of real-world full-stack applications and platforms:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmaybhar7&theme=tokyonight" alt="Tanmay GitHub Profile Details" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanmaybhar7&theme=tokyonight" alt="Tanmay Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+  <!-- MATCHING RATIO 1:1 DASHBOARD CARDS (340x200) -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmaybhar7&theme=tokyonight" width="49%" alt="Tanmay GitHub Stats Matrix" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanmaybhar7&theme=tokyonight" width="49%" alt="Tanmay Top Languages Matrix" />
+  </p>
 
-<br/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaybhar7&theme=tokyonight&background=060913&border=00f2fe&stroke=00f2fe&ring=00f5d4&fire=00f2fe&currStreakLabel=00f5d4" alt="Tanmay GitHub Streak" width="100%" />
+  <!-- FULL WIDTH CYBER STREAK METRICS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmaybhar7&theme=tokyonight&background=060b17&border=00f2fe&stroke=00f2fe&ring=00f5d4&fire=00f2fe&currStreakLabel=00f5d4" alt="Tanmay GitHub Streak" width="98.5%" />
 
 </div>
 
