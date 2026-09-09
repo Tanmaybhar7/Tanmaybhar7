@@ -43,7 +43,7 @@
     }
     @keyframes floatIcon {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-2px); }
+      50% { transform: translateY(-2.5px); }
     }
     .card-border-1 { animation: pulseCard1 3s ease-in-out infinite; }
     .card-border-2 { animation: pulseCard2 3s ease-in-out infinite 0.75s; }
@@ -60,9 +60,11 @@
     <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#00f2fe" stroke-width="1.2" class="card-border-1" />
     
     <!-- Icon Container -->
-    <g transform="translate(20, 20)" class="icon-anim-1">
-      <rect width="48" height="48" rx="8" fill="#0b172a" stroke="#00f2fe" stroke-width="0.8" stroke-opacity="0.8" />
-      <text x="24" y="32" font-size="22" text-anchor="middle">🌐</text>
+    <g transform="translate(20, 20)">
+      <g class="icon-anim-1">
+        <rect width="48" height="48" rx="8" fill="#0b172a" stroke="#00f2fe" stroke-width="0.8" stroke-opacity="0.8" />
+        <text x="24" y="32" font-size="22" text-anchor="middle">🌐</text>
+      </g>
     </g>
     
     <!-- Text Content -->
@@ -81,9 +83,11 @@
     <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#a855f7" stroke-width="1.2" class="card-border-2" />
     
     <!-- Icon Container -->
-    <g transform="translate(20, 20)" class="icon-anim-2">
-      <rect width="48" height="48" rx="8" fill="#170c2a" stroke="#a855f7" stroke-width="0.8" stroke-opacity="0.8" />
-      <text x="24" y="32" font-size="22" text-anchor="middle">⚡</text>
+    <g transform="translate(20, 20)">
+      <g class="icon-anim-2">
+        <rect width="48" height="48" rx="8" fill="#170c2a" stroke="#a855f7" stroke-width="0.8" stroke-opacity="0.8" />
+        <text x="24" y="32" font-size="22" text-anchor="middle">⚡</text>
+      </g>
     </g>
     
     <!-- Text Content -->
@@ -102,9 +106,11 @@
     <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#10b981" stroke-width="1.2" class="card-border-3" />
     
     <!-- Icon Container -->
-    <g transform="translate(20, 20)" class="icon-anim-3">
-      <rect width="48" height="48" rx="8" fill="#081e18" stroke="#10b981" stroke-width="0.8" stroke-opacity="0.8" />
-      <text x="24" y="32" font-size="22" text-anchor="middle">🛡️</text>
+    <g transform="translate(20, 20)">
+      <g class="icon-anim-3">
+        <rect width="48" height="48" rx="8" fill="#081e18" stroke="#10b981" stroke-width="0.8" stroke-opacity="0.8" />
+        <text x="24" y="32" font-size="22" text-anchor="middle">🛡️</text>
+      </g>
     </g>
     
     <!-- Text Content -->
@@ -123,9 +129,11 @@
     <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#f43f5e" stroke-width="1.2" class="card-border-4" />
     
     <!-- Icon Container -->
-    <g transform="translate(20, 20)" class="icon-anim-4">
-      <rect width="48" height="48" rx="8" fill="#220b13" stroke="#f43f5e" stroke-width="0.8" stroke-opacity="0.8" />
-      <text x="24" y="32" font-size="22" text-anchor="middle">🎨</text>
+    <g transform="translate(20, 20)">
+      <g class="icon-anim-4">
+        <rect width="48" height="48" rx="8" fill="#220b13" stroke="#f43f5e" stroke-width="0.8" stroke-opacity="0.8" />
+        <text x="24" y="32" font-size="22" text-anchor="middle">🎨</text>
+      </g>
     </g>
     
     <!-- Text Content -->
