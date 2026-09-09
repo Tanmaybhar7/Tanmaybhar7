@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 110" width="100%" height="100%">
+  <defs>
+    <linearGradient id="connBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060b17" />
+      <stop offset="100%" stop-color="#0a1224" />
+    </linearGradient>
+
+    <linearGradient id="radarSweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="connGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes sweep {
+      0% { transform: translateX(-400px); }
+      100% { transform: translateX(960px); }
+    }
+    @keyframes pulseLive {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.3; transform: scale(0.8); }
+    }
+    .scanner-sweep {
+      animation: sweep 4s linear infinite;
+    }
+    .live-dot {
+      animation: pulseLive 2s ease-in-out infinite;
+      transform-origin: 35px 28px;
+    }
+  </style>
+
+  <!-- Container -->
+  <rect width="960" height="110" rx="12" fill="url(#connBg)" stroke="#1e293b" stroke-width="1.2" />
+
+  <!-- Moving Radar Beam -->
+  <g class="scanner-sweep">
+    <rect x="0" y="0" width="200" height="110" fill="url(#radarSweep)" opacity="0.15" />
+  </g>
+
+  <!-- Status Light -->
+  <circle cx="35" cy="28" r="5" fill="#00f5d4" class="live-dot" filter="url(#connGlow)" />
+  
+  <!-- Text Content -->
+  <text x="52" y="32" fill="#00f5d4" font-family="'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="2">
+    TRANSMISSION_PROTOCOL // OPEN_FOR_COLLABORATIONS
+  </text>
+  <text x="35" y="62" fill="#f8fafc" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" font-weight="700">
+    Let's build something exceptional together
+  </text>
+  <text x="35" y="84" fill="#94a3b8" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="500">
+    Available for Full-Stack Development, React/Frontend Engineering, and QA Systems.
+  </text>
+
+  <!-- Right Side Cyber Badge -->
+  <g transform="translate(755, 36)">
+    <rect width="170" height="38" rx="8" fill="#0c172e" stroke="#00f2fe" stroke-width="0.8" />
+    <text x="85" y="24" fill="#38bdf8" font-family="'Courier New', monospace" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1">
+      ⚡ DISPATCH_READY
+    </text>
+  </g>
+</svg>

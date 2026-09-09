@@ -235,59 +235,53 @@ Here is a curated selection of real-world full-stack applications and platforms:
 
 </div>
 
----
-
 ### 🎯 `// DOMAINS OF PASSION`
 
-```text
-╭───────────────────────────────╮  ╭───────────────────────────────╮
-│ 🌐 MODERN WEB APPLICATIONS    │  │ ⚡ FULL-STACK ARCHITECTURES   │
-│ Fast SPAs with React 19,      │  │ Node.js, Express & PHP 8 APIs │
-│ TypeScript, and TailwindCSS   │  │ backed by optimized MySQL DBs │
-╰───────────────────────────────╯  ╰───────────────────────────────╯
-╭───────────────────────────────╮  ╭───────────────────────────────╮
-│ 🛡️ QA & SYSTEM RELIABILITY    │  │ 🎨 CREATIVE UI/UX ENGINEERING │
-│ Diligent testing, edge-case   │  │ Glassmorphism, cyber themes,  │
-│ hunting & bulletproof logic   │  │ and fluid micro-animations    │
-╰───────────────────────────────╯  ╰───────────────────────────────╯
-```
+<div align="center">
+  <!-- ANIMATED DOMAINS MATRIX -->
+  <img src="assets/domains-grid.svg" alt="Tanmay Domains of Passion" width="100%" />
+</div>
 
 ---
 
 ### 💬 `// THE HUMAN LOG`
 
-> 💡 **Developer Philosophy:**  
-> *"Code is poetry in motion when it works effortlessly, but true craftsmanship is proven in how thoroughly you test before users ever see a single pixel."*
+<div align="center">
+  <!-- ANIMATED DEVELOPER PHILOSOPHY CARD -->
+  <img src="assets/quote-card.svg" alt="Tanmay Developer Philosophy" width="100%" />
+</div>
 
 ---
 
 ### 🌐 `// INITIATE TRANSMISSION`
 
-Whether you are looking for a **Full-Stack Developer**, a **Frontend / React Engineer**, or someone passionate about **QA & Web Systems**, let's build something extraordinary together!
-
 <div align="center">
 
-<p align="center">
+  <!-- ANIMATED TRANSMISSION BANNER -->
+  <img src="assets/connect-banner.svg" alt="Initiate Transmission Banner" width="100%" />
+
+  <br/><br/>
+
+  <!-- CONNECT MATRIX BADGES -->
   <a href="https://linkedin.com/in/tanmaybhar7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Bhar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Tanmaybhar7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Tanmaybhar7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://mytarakeswar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Platform-MyTarakeswar-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Platform" />
+    <img src="https://img.shields.io/badge/Live_Platform-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="MyTarakeswar" />
   </a>
   &nbsp;
   <a href="mailto:bhartanmay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhartanmay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://instagram.com/tanmay.cr7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@tanmay.cr7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
 
 </div>
 

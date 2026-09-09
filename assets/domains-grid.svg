@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 210" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="domainCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18" />
+      <stop offset="100%" stop-color="#0c1428" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="cyanGlowDomain" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="purpleGlowDomain" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseCard1 {
+      0%, 100% { stroke: #00f2fe; stroke-opacity: 0.8; }
+      50% { stroke: #38bdf8; stroke-opacity: 0.3; }
+    }
+    @keyframes pulseCard2 {
+      0%, 100% { stroke: #a855f7; stroke-opacity: 0.8; }
+      50% { stroke: #c084fc; stroke-opacity: 0.3; }
+    }
+    @keyframes pulseCard3 {
+      0%, 100% { stroke: #10b981; stroke-opacity: 0.8; }
+      50% { stroke: #34d399; stroke-opacity: 0.3; }
+    }
+    @keyframes pulseCard4 {
+      0%, 100% { stroke: #f43f5e; stroke-opacity: 0.8; }
+      50% { stroke: #fb7185; stroke-opacity: 0.3; }
+    }
+    @keyframes floatIcon {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-2px); }
+    }
+    .card-border-1 { animation: pulseCard1 3s ease-in-out infinite; }
+    .card-border-2 { animation: pulseCard2 3s ease-in-out infinite 0.75s; }
+    .card-border-3 { animation: pulseCard3 3s ease-in-out infinite 1.5s; }
+    .card-border-4 { animation: pulseCard4 3s ease-in-out infinite 2.25s; }
+    .icon-anim-1 { animation: floatIcon 3s ease-in-out infinite 0s; }
+    .icon-anim-2 { animation: floatIcon 3s ease-in-out infinite 0.5s; }
+    .icon-anim-3 { animation: floatIcon 3s ease-in-out infinite 1s; }
+    .icon-anim-4 { animation: floatIcon 3s ease-in-out infinite 1.5s; }
+  </style>
+
+  <!-- ================= CARD 1: MODERN WEB APPS ================= -->
+  <g transform="translate(10, 10)">
+    <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#00f2fe" stroke-width="1.2" class="card-border-1" />
+    
+    <!-- Icon Container -->
+    <g transform="translate(20, 20)" class="icon-anim-1">
+      <rect width="48" height="48" rx="8" fill="#0b172a" stroke="#00f2fe" stroke-width="0.8" stroke-opacity="0.8" />
+      <text x="24" y="32" font-size="22" text-anchor="middle">🌐</text>
+    </g>
+    
+    <!-- Text Content -->
+    <text x="80" y="34" fill="#00f2fe" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">MODERN WEB APPLICATIONS</text>
+    <text x="80" y="54" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="500">Fast, responsive SPAs with React 19, TypeScript &amp; Vite</text>
+    
+    <!-- Badge Pill -->
+    <g transform="translate(350, 60)">
+      <rect width="95" height="18" rx="4" fill="#00f2fe" fill-opacity="0.12" stroke="#00f2fe" stroke-width="0.6" />
+      <text x="47.5" y="13" fill="#38bdf8" font-family="'Courier New', monospace" font-size="9.5" font-weight="700" text-anchor="middle">REACT 19 • TS</text>
+    </g>
+  </g>
+
+  <!-- ================= CARD 2: FULL-STACK ARCHITECTURES ================= -->
+  <g transform="translate(490, 10)">
+    <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#a855f7" stroke-width="1.2" class="card-border-2" />
+    
+    <!-- Icon Container -->
+    <g transform="translate(20, 20)" class="icon-anim-2">
+      <rect width="48" height="48" rx="8" fill="#170c2a" stroke="#a855f7" stroke-width="0.8" stroke-opacity="0.8" />
+      <text x="24" y="32" font-size="22" text-anchor="middle">⚡</text>
+    </g>
+    
+    <!-- Text Content -->
+    <text x="80" y="34" fill="#c084fc" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">FULL-STACK ARCHITECTURES</text>
+    <text x="80" y="54" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="500">Node.js, Express &amp; PHP 8 REST APIs backed by MySQL</text>
+    
+    <!-- Badge Pill -->
+    <g transform="translate(340, 60)">
+      <rect width="105" height="18" rx="4" fill="#a855f7" fill-opacity="0.12" stroke="#a855f7" stroke-width="0.6" />
+      <text x="52.5" y="13" fill="#d8b4fe" font-family="'Courier New', monospace" font-size="9.5" font-weight="700" text-anchor="middle">NODE • PHP • DB</text>
+    </g>
+  </g>
+
+  <!-- ================= CARD 3: QA & SYSTEM RELIABILITY ================= -->
+  <g transform="translate(10, 110)">
+    <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#10b981" stroke-width="1.2" class="card-border-3" />
+    
+    <!-- Icon Container -->
+    <g transform="translate(20, 20)" class="icon-anim-3">
+      <rect width="48" height="48" rx="8" fill="#081e18" stroke="#10b981" stroke-width="0.8" stroke-opacity="0.8" />
+      <text x="24" y="32" font-size="22" text-anchor="middle">🛡️</text>
+    </g>
+    
+    <!-- Text Content -->
+    <text x="80" y="34" fill="#34d399" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">QA &amp; SYSTEM RELIABILITY</text>
+    <text x="80" y="54" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="500">Diligent edge-case testing, API validation &amp; zero bugs</text>
+    
+    <!-- Badge Pill -->
+    <g transform="translate(345, 60)">
+      <rect width="100" height="18" rx="4" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-width="0.6" />
+      <text x="50" y="13" fill="#6ee7b7" font-family="'Courier New', monospace" font-size="9.5" font-weight="700" text-anchor="middle">ZERO_DEFECTS</text>
+    </g>
+  </g>
+
+  <!-- ================= CARD 4: CREATIVE UI/UX ================= -->
+  <g transform="translate(490, 110)">
+    <rect width="460" height="90" rx="10" fill="url(#domainCardBg)" stroke="#f43f5e" stroke-width="1.2" class="card-border-4" />
+    
+    <!-- Icon Container -->
+    <g transform="translate(20, 20)" class="icon-anim-4">
+      <rect width="48" height="48" rx="8" fill="#220b13" stroke="#f43f5e" stroke-width="0.8" stroke-opacity="0.8" />
+      <text x="24" y="32" font-size="22" text-anchor="middle">🎨</text>
+    </g>
+    
+    <!-- Text Content -->
+    <text x="80" y="34" fill="#fb7185" font-family="'Segoe UI', -apple-system, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5">CREATIVE UI/UX ENGINEERING</text>
+    <text x="80" y="54" fill="#cbd5e1" font-family="'Segoe UI', -apple-system, sans-serif" font-size="12" font-weight="500">Glassmorphism, cyber neon themes &amp; micro-interactions</text>
+    
+    <!-- Badge Pill -->
+    <g transform="translate(345, 60)">
+      <rect width="100" height="18" rx="4" fill="#f43f5e" fill-opacity="0.12" stroke="#f43f5e" stroke-width="0.6" />
+      <text x="50" y="13" fill="#fda4af" font-family="'Courier New', monospace" font-size="9.5" font-weight="700" text-anchor="middle">AESTHETIC_UI</text>
+    </g>
+  </g>
+</svg>
