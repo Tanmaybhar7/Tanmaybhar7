@@ -203,10 +203,10 @@ Here is a curated selection of real-world full-stack applications and platforms:
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tanmaybhar7&show_icons=true&theme=tokyonight&bg_color=060913&border_color=00f2fe&title_color=00f2fe&text_color=e2e8f0&icon_color=38bdf8&hide_border=false" alt="Tanmay GitHub Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmaybhar7&theme=tokyonight" alt="Tanmay GitHub Profile Details" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaybhar7&layout=compact&theme=tokyonight&bg_color=060913&border_color=7928ca&title_color=00f5d4&text_color=e2e8f0&hide_border=false" alt="Tanmay Top Languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanmaybhar7&theme=tokyonight" alt="Tanmay Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -232,11 +232,6 @@ Here is a curated selection of real-world full-stack applications and platforms:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanmaybhar7/Tanmaybhar7/output/github-contribution-grid-snake.svg" />
     <img alt="Tanmay Bhar GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Tanmaybhar7/Tanmaybhar7/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-
-  <br/><br/>
-
-  <!-- DYNAMIC CONTRIBUTION GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmaybhar7&theme=react-dark&bg_color=060913&color=00f2fe&line=00f2fe&point=00f5d4&area=true&hide_border=false&border_color=1e293b" alt="Tanmay Activity Graph" width="100%" />
 
 </div>
 
