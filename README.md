@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="assets/hero-banner.svg?v=2" alt="Tanmay Bhar - Digital Builder &amp; Full-Stack Engineer Banner" width="100%" />
+<img src="assets/hero-banner.svg?v=3" alt="Tanmay Bhar - Web Developer, UI/UX Designer &amp; Mobile App Developer Banner" width="100%" />
 
 <br/>
 
@@ -10,11 +10,14 @@
   <a href="https://github.com/Tanmaybhar7">
     <img src="https://img.shields.io/badge/DEVELOPER-Tanmay%20Bhar-00f2fe?style=for-the-badge&logo=github&logoColor=060913&labelColor=080c17" alt="Developer Tanmay Bhar" />
   </a>
+  <a href="https://www.brainwareuniversity.ac.in/">
+    <img src="https://img.shields.io/badge/STUDENT-BCA%20%40%20BRAINWARE-10b981?style=for-the-badge&logo=academia&logoColor=ffffff&labelColor=080c17" alt="BCA Student at Brainware University" />
+  </a>
   <a href="https://linkedin.com/in/tanmaybhar7">
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20ROLES-10b981?style=for-the-badge&logo=shield&logoColor=ffffff&labelColor=080c17" alt="Status" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20ROLES-38bdf8?style=for-the-badge&logo=shield&logoColor=ffffff&labelColor=080c17" alt="Status" />
   </a>
   <a href="mailto:bhartanmay@gmail.com">
-    <img src="https://img.shields.io/badge/DISPATCH-bhartanmay%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=080c17" alt="Email" />
+    <img src="https://img.shields.io/badge/DISPATCH-bhartanmay%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=080c17" alt="Email" />
   </a>
 </p>
 
@@ -24,43 +27,43 @@
 
 <div align="center">
   <!-- INTERACTIVE CYBER TERMINAL DIAGNOSTIC -->
-  <img src="assets/terminal-card.svg" alt="Tanmay Developer Terminal Diagnostics" width="100%" />
+  <img src="assets/terminal-card.svg?v=3" alt="Tanmay Developer Terminal Diagnostics" width="100%" />
 </div>
 
 <br/>
 
-> 👋 **In Plain English:** I am a **Full-Stack Web Developer & QA Enthusiast** who loves transforming ideas into fast, intuitive, and reliable web applications. Whether building responsive user interfaces with **React 19 & TypeScript** or crafting secure backend APIs with **Node.js & PHP 8**, my focus is always on **clean code, great design, and zero bugs**.
+> 👋 **In Plain English:** I am a **BCA Student at Brainware University**, passionate **Web Developer**, **UI/UX Designer**, and **Mobile App Developer**. I specialize in creating responsive, high-performance web applications with **React 19 & TypeScript**, crafting intuitive user interfaces and prototypes in **Figma & Stitch**, developing native mobile apps with **Android Studio**, and engineering dependable backend APIs with **Node.js, PHP & MySQL DBMS**.
 
 ---
 
 ### 🌐 `// DIGITAL BUILDER PIPELINE`
 
-> *From whiteboard concept to production deployment — here is how I build:*
+> *From wireframe concept to production release — here is how I build:*
 
 <div align="center">
-  <img src="assets/workflow-pipeline.svg" alt="Tanmay Engineering Workflow Pipeline" width="100%" />
+  <img src="assets/workflow-pipeline.svg?v=3" alt="Tanmay Engineering Workflow Pipeline" width="100%" />
 </div>
 
 <br/>
 
 | Stage | Focus | What Happens Here |
 | :--- | :--- | :--- |
-| **`01 // ARCHITECT`** | System Design | Wireframing user flows, designing MySQL database schemas, and defining API contracts. |
-| **`02 // ENGINEER`** | Full-Stack Code | Developing modular React 19 SPAs, TypeScript interfaces, and Node.js / PHP backend services. |
-| **`03 // QA & TEST`** | Quality Assurance | Rigorous edge-case testing, API payload validation with Postman, and cross-browser testing. |
-| **`04 // DEPLOY & SCALE`** | Cloud Deployment | Production shipping on Netlify/Vercel with optimized assets, SSL security, and high uptime. |
+| **`01 // DESIGN & UX`** | UI/UX & Wireframing | Designing interactive user journeys, wireframes, and design systems in Figma & Stitch. |
+| **`02 // WEB & MOBILE`** | React 19 & Android | Engineering modular React 19 SPAs with TypeScript and native Android apps in Android Studio. |
+| **`03 // BACKEND & DB`** | APIs & Databases | Architecting RESTful APIs with Node.js & PHP, backed by structured MySQL databases and DBMS. |
+| **`04 // DEPLOY & SHIP`** | Version Control & Ship | Version control via Git & GitHub, responsive asset optimization, and live deployment. |
 
 ---
 
 ### 🛠️ `// TECH ARSENAL & TOOLING`
 
-> *Technologies, frameworks, and tools I actively use to build real-world software:*
+> *Languages, frameworks, and tools I actively use to build real-world software:*
 
 <div align="center">
 
 <!-- Skill Icons Matrix -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,php,mysql,vite,tailwind,bootstrap,html,css,git,github,postman,supabase,py,c&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,ts,react,nodejs,php,mysql,github,figma,androidstudio&perline=7" alt="Tanmay Tech Stack Icons" />
 </a>
 
 </div>
@@ -69,7 +72,7 @@
 
 <div align="center">
   <!-- ANIMATED TECH ARSENAL MATRIX -->
-  <img src="assets/tech-arsenal.svg" alt="Tanmay Tech Arsenal and Core Stack" width="100%" />
+  <img src="assets/tech-arsenal.svg?v=3" alt="Tanmay Tech Arsenal and Core Stack" width="100%" />
 </div>
 
 ---
@@ -80,7 +83,7 @@
 
 <div align="center">
   <!-- ANIMATED FEATURED PROJECTS SUITE -->
-  <img src="assets/featured-projects.svg" alt="Tanmay Featured Projects Suite" width="100%" />
+  <img src="assets/featured-projects.svg?v=3" alt="Tanmay Featured Projects Suite" width="100%" />
 
   <br/><br/>
 
@@ -107,13 +110,13 @@
 <br/>
 
 <details>
-  <summary>🔍 <strong>Click to read detailed project summaries (Beginner-Friendly breakdown)</strong></summary>
+  <summary>🔍 <strong>Click to read detailed project summaries</strong></summary>
   <br/>
   
-  * **🌦️ Mausam Weather Platform:** An interactive live weather dashboard. Users can search any city, view dynamic hourly/weekly temperature charts, inspect live rain & wind map layers via Leaflet, and switch languages with multi-lingual support.
-  * **🏥 FSET (Pharmacy Stock & Expiry Tracker):** An enterprise web app designed for medical stores and pharmacies to manage medicine stocks, alert staff about near-expiry batches, and prevent inventory waste using secure PHP PDO & MySQL.
-  * **🌐 MyTarakeswar Community Platform:** A live regional guide and community portal powered by a Node.js/Express backend (`backendT`) with real-time Socket.io live updates and netlify cloud hosting.
-  * **💼 Personal Developer Portfolio:** A lightning-fast, mobile-first portfolio built from scratch with pure HTML, CSS, and modern JavaScript with smooth dark-mode aesthetics.
+  * **🌦️ Mausam Weather Platform:** An interactive live weather dashboard built with React 19, TypeScript, and JavaScript, integrating live REST APIs, dynamic hourly forecasts, and responsive UI layouts.
+  * **🏥 FSET (Pharmacy Stock & Expiry Tracker):** An enterprise pharmaceutical management web app featuring a React.js frontend, secure PHP REST backend, and structured MySQL DBMS inventory control with near-expiry alerts.
+  * **🌐 MyTarakeswar Community Platform:** A live regional community web portal powered by a Node.js/Express backend service, client-side JavaScript logic, and MySQL database management.
+  * **💼 Personal Developer Portfolio & Prototypes:** A mobile-first web portfolio designed with Figma, crafted with pure HTML5, CSS3, and modern JavaScript, with Android Studio mobile app prototypes.
 </details>
 
 ---
@@ -156,11 +159,11 @@
 
 ### 🎯 `// DOMAINS OF PASSION`
 
-> *Areas where I love solving problems and creating digital value:*
+> *Areas where I solve problems and build digital experiences:*
 
 <div align="center">
   <!-- ANIMATED DOMAINS MATRIX -->
-  <img src="assets/domains-grid.svg" alt="Tanmay Domains of Passion" width="100%" />
+  <img src="assets/domains-grid.svg?v=3" alt="Tanmay Domains of Passion" width="100%" />
 </div>
 
 ---
@@ -169,19 +172,19 @@
 
 <div align="center">
   <!-- ANIMATED DEVELOPER PHILOSOPHY CARD -->
-  <img src="assets/quote-card.svg" alt="Tanmay Developer Philosophy" width="100%" />
+  <img src="assets/quote-card.svg?v=3" alt="Tanmay Developer Philosophy" width="100%" />
 </div>
 
 ---
 
 ### 🌐 `// INITIATE TRANSMISSION`
 
-> 🤝 *Looking for a Full-Stack Developer, Frontend React Engineer, or QA specialist? Let's connect!*
+> 🤝 *Looking for a Web Developer, UI/UX Designer, or Mobile App Developer? Let's connect!*
 
 <div align="center">
 
   <!-- ANIMATED TRANSMISSION BANNER -->
-  <img src="assets/connect-banner.svg" alt="Initiate Transmission Banner" width="100%" />
+  <img src="assets/connect-banner.svg?v=3" alt="Initiate Transmission Banner" width="100%" />
 
   <br/><br/>
 
@@ -212,5 +215,5 @@
 
 <!-- FOOTER BANNER -->
 <div align="center">
-  <img src="assets/footer-banner.svg" alt="Footer Banner" width="100%" />
+  <img src="assets/footer-banner.svg?v=3" alt="Footer Banner" width="100%" />
 </div>

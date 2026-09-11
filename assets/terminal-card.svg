@@ -69,42 +69,43 @@
       <tspan fill="#22c55e" font-weight="700">[✓] IDENT</tspan>
       <tspan fill="#64748b"> : </tspan>
       <tspan fill="#00f2fe" font-weight="700">Tanmay Bhar</tspan>
-      <tspan fill="#94a3b8"> // Full-Stack Developer &amp; QA Enthusiast</tspan>
+      <tspan fill="#94a3b8"> // Web Developer, UI/UX Designer &amp; Mobile App Dev</tspan>
     </text>
 
-    <!-- Line 2: Mission & Summary -->
+    <!-- Line 2: Education & University -->
     <text x="0" y="52" font-family="'Courier New', monospace" font-size="12.5">
-      <tspan fill="#22c55e" font-weight="700">[✓] ABOUT</tspan>
+      <tspan fill="#22c55e" font-weight="700">[✓] EDU  </tspan>
       <tspan fill="#64748b"> : </tspan>
-      <tspan fill="#e2e8f0">Engineering scalable full-stack web ecosystems, resilient REST APIs &amp; modern reactive SPAs.</tspan>
+      <tspan fill="#38bdf8" font-weight="700">BCA Student @ Brainware University</tspan>
+      <tspan fill="#cbd5e1"> (Computer Applications &amp; Software Engineering)</tspan>
     </text>
 
     <!-- Line 3: Stack -->
     <text x="0" y="76" font-family="'Courier New', monospace" font-size="12.5">
       <tspan fill="#22c55e" font-weight="700">[✓] STACK</tspan>
       <tspan fill="#64748b"> : </tspan>
-      <tspan fill="#38bdf8">React 19 • TypeScript • Node.js • Express • PHP 8 PDO • MySQL • Vite • TailwindCSS v4</tspan>
+      <tspan fill="#38bdf8">React 19 • TypeScript • JS • Python • C • Node.js • PHP • MySQL • DBMS • Android Studio • Figma</tspan>
     </text>
 
     <!-- Line 4: Creed -->
     <text x="0" y="100" font-family="'Courier New', monospace" font-size="12.5">
       <tspan fill="#22c55e" font-weight="700">[✓] CREED</tspan>
       <tspan fill="#64748b"> : </tspan>
-      <tspan fill="#fbbf24">"Write clean logic on the backend, effortless beauty on the frontend, eliminate bugs."</tspan>
+      <tspan fill="#fbbf24">"Design intuitive interfaces, build clean full-stack logic, craft seamless mobile apps."</tspan>
     </text>
 
     <!-- Line 5: Domains -->
     <text x="0" y="124" font-family="'Courier New', monospace" font-size="12.5">
       <tspan fill="#22c55e" font-weight="700">[✓] DOMAIN</tspan>
       <tspan fill="#64748b"> : </tspan>
-      <tspan fill="#cbd5e1">High-Performance SPAs • Real-Time Web Systems • Database Architecture • QA Audits</tspan>
+      <tspan fill="#cbd5e1">Modern Web Apps • Native Android Apps • UI/UX Design Systems • REST APIs &amp; Databases</tspan>
     </text>
 
     <!-- Line 6: State -->
     <text x="0" y="148" font-family="'Courier New', monospace" font-size="12.5">
       <tspan fill="#22c55e" font-weight="700">[✓] STATE</tspan>
       <tspan fill="#64748b"> : </tspan>
-      <tspan fill="#00f5d4" font-weight="700">ACTIVE // AVAILABLE FOR IMPACTFUL ROLES &amp; COLLABORATIONS 🚀</tspan>
+      <tspan fill="#00f5d4" font-weight="700">ACTIVE // OPEN FOR OPPORTUNITIES, FREELANCE &amp; COLLABORATIONS 🚀</tspan>
     </text>
 
     <!-- Line 7: Active prompt with cursor -->
