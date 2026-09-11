@@ -172,8 +172,8 @@
   <!-- Main Left Content Block -->
   <g transform="translate(45, 140)">
     <!-- Protocol Badge -->
-    <rect x="0" y="-36" width="375" height="24" rx="6" fill="#00f2fe" fill-opacity="0.1" stroke="#00f2fe" stroke-width="0.8" />
-    <text x="12" y="-20.5" fill="#00f2fe" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="1.8">
+    <rect x="0" y="-36" width="395" height="24" rx="6" fill="#00f2fe" fill-opacity="0.1" stroke="#00f2fe" stroke-width="0.8" />
+    <text x="14" y="-20.5" fill="#00f2fe" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'Courier New', monospace" font-size="10.5" font-weight="700" letter-spacing="1.5">
       INITIALIZING DIGITAL BUILDER INTERFACE //
     </text>
 

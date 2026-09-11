@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="assets/hero-banner.svg" alt="Tanmay Bhar - Digital Builder &amp; Full-Stack Engineer Banner" width="100%" />
+<img src="assets/hero-banner.svg?v=2" alt="Tanmay Bhar - Digital Builder &amp; Full-Stack Engineer Banner" width="100%" />
 
 <br/>
 
