@@ -215,13 +215,16 @@ mausam_weather_app/
 
 ## 👥 Team & Contributors
 
-This project was engineered and maintained by a team of developers at **Brainware University (BCA)**:
+This project was engineered and maintained with collaborative teamwork at **Brainware University**:
 
 | Avatar | Team Member | Primary Role | Key Contributions | GitHub Profile |
 | :---: | :--- | :--- | :--- | :---: |
-| <img src="https://github.com/Tanmaybhar7.png" width="60" style="border-radius:50%" /> | **Tanmay Bhar** | **Project Lead & Full-Stack Architect** | System design, React 19 architecture, Open-Meteo & Gemini API integration, UI/UX | [@Tanmaybhar7](https://github.com/Tanmaybhar7) |
-| <img src="https://github.com/identicons/shuvojit.png" width="60" style="border-radius:50%" /> | **Shuvojit Shil** | **Frontend Engineer & Component Specialist** | Weather card components, Recharts visualizations, responsive layouts & QA testing | Contributor |
-| <img src="https://github.com/identicons/debdut.png" width="60" style="border-radius:50%" /> | **Debdut Nandy** | **Data Modeling & Feature Integration** | Data mapping, i18n localization translation strings, documentation & testing | Contributor |
+| <a href="https://github.com/Tanmaybhar7"><img src="https://github.com/Tanmaybhar7.png" width="60" style="border-radius:50%" /></a> | **Tanmay Bhar** | **Project Lead &amp; Full-Stack Architect** | Core system architecture, React 19 SPA, Open-Meteo &amp; Gemini AI integration, UI/UX design | [@Tanmaybhar7](https://github.com/Tanmaybhar7) |
+| <a href="https://github.com/kundurohit544"><img src="https://github.com/kundurohit544.png" width="60" style="border-radius:50%" /></a> | **Rohit Kundu** | **AI / ML &amp; Intelligence Engineer** | Gemini AI weather assistant logic, contextual advisory prompts, and predictive scoring models | [@kundurohit544](https://github.com/kundurohit544) |
+| <a href="https://github.com/Deb124-source"><img src="https://github.com/Deb124-source.png" width="60" style="border-radius:50%" /></a> | **Debdut Nandy** | **Data Modeling &amp; ML Analytics** | Meteorological data pipelines, historical climate telemetry, API response transforms &amp; QA | [@Deb124-source](https://github.com/Deb124-source) |
+| <a href="https://github.com/SampradaDutta"><img src="https://github.com/SampradaDutta.png" width="60" style="border-radius:50%" /></a> | **Samprada Dutta** | **Frontend &amp; UI/UX Developer** | Responsive layout engineering, user experience flows, component styling &amp; cross-device tuning | [@SampradaDutta](https://github.com/SampradaDutta) |
+| <a href="https://github.com/ShubhamBTA5"><img src="https://github.com/ShubhamBTA5.png" width="60" style="border-radius:50%" /></a> | **Shubham Saha** | **Full-Stack &amp; Cloud Engineer** | Supabase authentication, database persistence, backend services &amp; performance tuning | [@ShubhamBTA5](https://github.com/ShubhamBTA5) |
+| <a href="https://github.com/Shuvojit-ds"><img src="https://github.com/Shuvojit-ds.png" width="60" style="border-radius:50%" /></a> | **Shuvojit Shil** | **Frontend &amp; Visualizations** | Recharts 24-hr/7-day graphs, weather radar maps, interactive UI components &amp; testing | [@Shuvojit-ds](https://github.com/Shuvojit-ds) |
 
 ---
 
@@ -236,4 +239,4 @@ This project was engineered and maintained by a team of developers at **Brainwar
 
 ## 📄 License & Attribution
 
-Distributed under the **MIT License**. Created with passion by **Tanmay Bhar**, **Shuvojit Shil**, and **Debdut Nandy** at **Brainware University**. Meteorological data courtesy of [Open-Meteo](https://open-meteo.com/).
+Distributed under the **MIT License**. Created with passion by **Tanmay Bhar**, **Rohit Kundu**, **Debdut Nandy**, **Samprada Dutta**, **Shubham Saha**, and **Shuvojit Shil** at **Brainware University**. Meteorological data courtesy of [Open-Meteo](https://open-meteo.com/).
